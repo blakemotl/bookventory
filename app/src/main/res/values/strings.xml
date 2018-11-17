@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookventory</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="check_button_text">Check</string>
+    <string name="add_button_text">Add</string>
+</resources>
